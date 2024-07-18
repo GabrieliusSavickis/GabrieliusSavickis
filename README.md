@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Gabi and I'm a Software Development graduate from Atlantic Technological Univeristy.</h2>
+<h2 align="left">Hi 👋! My name is Gabi and I'm a Software Development graduate from Atlantic Technological Univeristy. I am actively seeking opportunities in Software Engineering and IT Support roles</h2>
 
 ###
 
