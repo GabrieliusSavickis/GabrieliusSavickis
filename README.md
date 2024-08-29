@@ -1,13 +1,25 @@
-<h2 align="left">Hi 👋! My name is Gabi and I'm a Software Development graduate from Atlantic Technological Univeristy. I am actively seeking opportunities in Software Engineering and IT Support roles</h2>
+<h2 align="left">Hi 👋! My name is Gabi and I'm a Software Development graduate from Atlantic Technological University. I am actively seeking opportunities in Software Engineering and IT Support roles</h2>
 
-###
+### 🚀 Current Project
+
+I'm currently working on a project called **[Car Service Manager](https://github.com/GabrieliusSavickis/car-service-manager)**. This project is a comprehensive management system for car service centers, built using React, Firebase, and various other modern technologies. The application allows administrators to manage appointments, track technician hours, and handle customer accounts efficiently. It also includes features like automated account details fetching, appointment scheduling with time tracking, and integration with Firebase for real-time data synchronization.
+
+Key Highlights:
+- **Domain Integration:** Manually set up a custom domain and routed it through Firebase for hosting.
+- **CI/CD:** Implemented GitHub Actions for continuous integration and deployment, ensuring that the live site updates automatically with every push to the main branch.
+- **Database Management:** Leveraging Firebase Firestore for real-time database operations, including account management, appointment tracking, and service history logging.
+- **Feature-Rich:** Includes functionalities like technician time tracking, appointment pausing/resuming, and automatic population of customer details based on vehicle registration.
+
+Feel free to check out the repository and follow the progress: **[Car Service Manager Repository](https://github.com/GabrieliusSavickis/car-service-manager)**.
+
+### 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GabrieliusSavickis&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GabrieliusSavickis&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
+### 💻 Tech Stack
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
