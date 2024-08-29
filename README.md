@@ -10,8 +10,6 @@ Key Highlights:
 - **Database Management:** Leveraging Firebase Firestore for real-time database operations, including account management, appointment tracking, and service history logging.
 - **Feature-Rich:** Includes functionalities like technician time tracking, appointment pausing/resuming, and automatic population of customer details based on vehicle registration.
 
-Feel free to check out the repository and follow the progress: **[Car Service Manager Repository](https://github.com/GabrieliusSavickis/car-service-manager)**.
-
 ### 📊 GitHub Stats
 
 <div align="center">
